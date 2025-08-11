@@ -1,0 +1,11 @@
+CampaignID,Channel,StartDate,Cost,CampaignType
+1,Email,2025-04-30,1100.04,Reminder
+2,Email,2025-06-17,1892.84,Holiday
+3,Email,2025-07-02,3706.8,Holiday
+4,Email,2025-06-01,3361.97,Offer
+5,Email,2025-06-11,1374.78,Offer
+6,Email,2025-04-17,3244.98,Holiday
+7,SMS,2025-07-05,1881.76,Holiday
+8,SMS,2025-06-29,4237.72,Offer
+9,Email,2025-07-01,3792.56,Reminder
+10,SMS,2025-05-03,1621.92,Reminder
